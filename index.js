@@ -26,3 +26,5 @@ server.listen( process.env.PORT, (err) => {
 // Comandos para iniciar el servidor:
 // npm start
 // npm run start:dev
+
+// http://localhost:3000/
